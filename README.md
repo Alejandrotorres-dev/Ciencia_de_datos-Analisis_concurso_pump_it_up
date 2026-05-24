@@ -3,7 +3,7 @@ Pump it Up: Data Mining the Water Table fue una competición de ciencia de datos
 junto con el Ministerio de Agua de Tanzania. Se trata de  predecir el estado de bombas de agua en Tanzania. Dado un conjunto de variables sobre cada bomba (tipo, fecha de instalación, quién la gestiona, ubicación...), hay que clasificarla en una de tres categorías: funcional, necesita reparación o no funciona. Es un problema de clasificación multiclase.
 
 
-Realicé una limpieza de datos, exploración de datos y aplicación de Random Forest, XG Boost y Red Neuronal. Obtención de un accuracy de 82 % con Random Forest
+Realicé una limpieza de datos, exploración de datos y aplicación de Random Forest, XG Boost y Red Neuronal. Con una obtención de un accuracy de 82 % con Random Forest
 
 Link de la competición https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
